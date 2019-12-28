@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "519677397408",
+    "firebase_url": "https://yourrem-89d45.firebaseio.com",
+    "project_id": "yourrem-89d45",
+    "storage_bucket": "yourrem-89d45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519677397408:android:6b2f01b88a1e7e1c",
+        "android_client_info": {
+          "package_name": "com.example.yourrem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519677397408-dd5j82bq7or7pj0kmduuruk358vts9o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yourrem",
+            "certificate_hash": "2d17859be7e50b768cc3dfd641458e0c55982857"
+          }
+        },
+        {
+          "client_id": "519677397408-odkc0i3kamvv08oblhf0u53kbvlicj74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMSkoYvHOPLJUQLwdwrMAC65xg-ZjblM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519677397408-odkc0i3kamvv08oblhf0u53kbvlicj74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

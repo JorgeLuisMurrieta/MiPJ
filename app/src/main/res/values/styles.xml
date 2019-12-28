@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="etiqueta">
+        <item name="android:background">@drawable/fondo_eti_fab</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="exampleToast">
+        <item name="stColorBackground">#4CAF50</item>
+        <item name="stTextColor">@android:color/background_light</item>
+        <item name="stStrokeColor">#000</item>
+        <item name="stStrokeWidth">3dp</item>
+    </style>
+    <style name="error">
+        <item name="stColorBackground">#F44336</item>
+        <item name="stTextColor">@android:color/background_light</item>
+        <item name="stStrokeColor">#000</item>
+        <item name="stStrokeWidth">3dp</item>
+    </style>
+    <style name="ToolBarStyle" parent="">
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+    <style name="colapsado">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+    <style name="expandido">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+</resources>
